@@ -1,0 +1,130 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+
+
+.rdrDefinedRangesWrapper{
+  width: 102px !important;
+}
+
+.rdrDateDisplay{
+  width: 220px !important;
+}
+
+.rdrInputRanges{
+  display: none;
+}
+.rdrMonth{
+  width: 19.667em !important;
+}
+.css-58bwmi-MuiDataGrid-root {
+  border: none !important;
+}
+
+::-webkit-scrollbar {
+  background-color: rgba(255, 255, 255, 0.74);
+  height: 3px;
+}
+.css-1v17xvx-MuiTableCell-root,
+.css-x5hfn0-MuiTableCell-root {
+  border: none !important;
+}
+
+.css-sq1tv3-MuiGrid-root {
+  width: 100% !important;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.css-xquigb {
+  margin: 0 !important;
+}
+.css-1f5utrb {
+  margin: 0 !important;
+}
+.success-container {
+  position: relative;
+  height: 100%;
+}
+.css-m9r77w-MuiGrid-root {
+  width: 100vw !important;
+}
+
+.css-1w7jfz0 {
+  margin: 0% !important;
+}
+
+.css-1ktajal {
+  background-color: 'darkslategrey' !important;
+}
+
+.success-animation {
+  position: absolute;
+  margin: 0px;
+  padding: 0px;
+  z-index: 10;
+  top: 0px;
+  left: 40%;
+  width: 15vw;
+  height: 310px;
+  transform: scale(3.5);
+}
+
+@media only screen and (max-width: 420px) {
+  .css-m9r77w-MuiGrid-root {
+    padding-left: 34px !important;
+    padding-right: 34px !important;
+  }
+}
+
+@media only screen and (min-width: 900px) {
+  .css-m9r77w-MuiGrid-root {
+    padding-left: 34px !important;
+    padding-right: 34px !important;
+    margin: 0% !important;
+  }
+}
+
+@media only screen and (max-width: 510px) {
+  .css-lvf3lb-MuiFormControl-root {
+    width: 100% !important;
+    margin-bottom: 10px !important;
+  }
+
+  .css-rb79w8-MuiButtonBase-root-MuiButton-root {
+    width: 100% !important;
+    margin-left: 0px !important;
+  }
+
+  .css-55xgnh-MuiFormControl-root {
+    width: 100% !important;
+    margin-left: 0px !important;
+  }
+  .css-1xzqqmo-MuiGrid-root {
+    justify-content: center !important;
+  }
+
+  .css-6db18n-MuiButtonBase-root-MuiButton-root {
+    width: 100% !important;
+    /* height: 100% !important; */
+  }
+
+  .back-button {
+    width: 100% !important;
+    margin-bottom: 10px !important;
+    /* margin-left: 0px !important; */
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .grid {
+    width: 40vw !important;
+  }
+}
